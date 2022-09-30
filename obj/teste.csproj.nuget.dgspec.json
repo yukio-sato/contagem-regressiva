@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab0-00\\Documents\\Aula\\teste\\teste.csproj": {}
+    "C:\\Users\\Lab0-00\\contagem-regressiva\\teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab0-00\\Documents\\Aula\\teste\\teste.csproj": {
+    "C:\\Users\\Lab0-00\\contagem-regressiva\\teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab0-00\\Documents\\Aula\\teste\\teste.csproj",
+        "projectUniqueName": "C:\\Users\\Lab0-00\\contagem-regressiva\\teste.csproj",
         "projectName": "teste",
-        "projectPath": "C:\\Users\\Lab0-00\\Documents\\Aula\\teste\\teste.csproj",
+        "projectPath": "C:\\Users\\Lab0-00\\contagem-regressiva\\teste.csproj",
         "packagesPath": "C:\\Users\\Lab0-00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab0-00\\Documents\\Aula\\teste\\obj\\",
+        "outputPath": "C:\\Users\\Lab0-00\\contagem-regressiva\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
