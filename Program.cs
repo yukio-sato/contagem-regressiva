@@ -5,7 +5,7 @@ for (int i = 0; i < frase.Length; i++)
 {
 
     Console.Write(frase[i]);
-Thread.Sleep(125);
+Thread.Sleep(65);
 }
 Console.Clear();
 Console.ForegroundColor = ConsoleColor.DarkRed;
@@ -13,7 +13,7 @@ Console.ForegroundColor = ConsoleColor.DarkRed;
 for (int i = 0; i < frase.Length; i++)
 {
     Console.Write(frase[i]);
-Thread.Sleep(125);
+Thread.Sleep(65);
 }
 Console.Clear();
 Console.ForegroundColor = ConsoleColor.DarkYellow;
@@ -23,25 +23,25 @@ for (int i = 0; i < frase.Length; i++)
     if (i < frase.Length-4)
     {
     Console.Write(frase[i]);
-Thread.Sleep(125);
+Thread.Sleep(65);
     }
     else if (i < frase.Length-3)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Write(frase[i]);
-Thread.Sleep(125);
+Thread.Sleep(65);
         }
 else if (i < frase.Length-2)
         {
             Console.ForegroundColor = ConsoleColor.Gray;
     Console.Write(frase[i]);
-Thread.Sleep(125);
+Thread.Sleep(65);
     }
     else if (i < frase.Length-1)
         {
             Console.ForegroundColor = ConsoleColor.White;
     Console.Write($"{frase[i]}\n");
-Thread.Sleep(125);
+Thread.Sleep(65);
     }
 }
 Console.ResetColor();
